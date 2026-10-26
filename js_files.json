@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://inventory.teamrabbil.com/js/toastify-js.js",
+    "size_kb": 6.62
+  },
+  {
+    "url": "https://inventory.teamrabbil.com/js/axios.min.js",
+    "size_kb": 13.62
+  },
+  {
+    "url": "https://inventory.teamrabbil.com/js/config.js",
+    "size_kb": 0.72
+  },
+  {
+    "url": "",
+    "size_kb": null
+  },
+  {
+    "url": "",
+    "size_kb": null
+  },
+  {
+    "url": "https://inventory.teamrabbil.com/js/bootstrap.bundle.js",
+    "size_kb": 204.81
+  }
+]
